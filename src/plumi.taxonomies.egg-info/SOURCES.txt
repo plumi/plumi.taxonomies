@@ -1,0 +1,15 @@
+README.txt
+setup.py
+src/plumi/__init__.py
+src/plumi.taxonomies.egg-info/PKG-INFO
+src/plumi.taxonomies.egg-info/SOURCES.txt
+src/plumi.taxonomies.egg-info/dependency_links.txt
+src/plumi.taxonomies.egg-info/entry_points.txt
+src/plumi.taxonomies.egg-info/namespace_packages.txt
+src/plumi.taxonomies.egg-info/not-zip-safe
+src/plumi.taxonomies.egg-info/requires.txt
+src/plumi.taxonomies.egg-info/top_level.txt
+src/plumi/taxonomies/__init__.py
+src/plumi/taxonomies/testing.py
+src/plumi/taxonomies/tests/__init__.py
+src/plumi/taxonomies/tests/test_example.py
